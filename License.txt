@@ -1,0 +1,6 @@
+I'm not very good at licensing agreements... If you decide at your own risk to use an unoptimized piece of shit that I work on when I can't sleep (it's not just about this project). I will be very pleased to know about it.
+
+I will try not to abandon this project, expand and improve the functionality, and finally finish the quest system, which is broken again!
+Although I can't promise anything.
+
+And yes, this seems to be my first commit in 2023.

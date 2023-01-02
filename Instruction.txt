@@ -1,0 +1,10 @@
+The code is not optimized.
+The functionality of a simple line interface is presented. The functions of adding and deleting objects are supported, highlighting additional information when hovering over an object. Inventory is not "drag and drop", although it may one day become one.
+
+The repository contains all the scripts and prefabs of objects that, when dragged into Unity, allow you to launch the interface (packed into directories as best I could). In addition, there is a shop panel and accounting for the maximum weight / cost.
+
+Among the disabled scripts and objects is a system of quests and a journal. After cutting it out of a more complex project, I was never able to fully launch it.
+
+Among the prefabs are the primitives of the in-game and main menus with settings.
+
+From this project, I plan to create a generic resource component block for a wide variety of ideas. So maybe it will grow with something else in the near future, like stats, health and other panels.
