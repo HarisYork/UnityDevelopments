@@ -4,3 +4,6 @@ I will try not to abandon this project, expand and improve the functionality, an
 Although I can't promise anything.
 
 And yes, this seems to be my first commit in 2023.
+
+By the sincere reader --
+I greatly appreciate your effort and impressed by your scripts! After reading, they are truly marvelous regardless of how the state of optimization. I feel like they are usable in some ways and certain optimization may help to function the whole gaming contents, thank you very much!
